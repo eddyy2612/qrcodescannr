@@ -1,16 +1,4 @@
 # qr_code_generator
 
-A new Flutter project.
+this app will allow you to instantly create QR codes from any text or link. Simply enter the text or URL, and the app will convert it into a unique, scannable QR code that can be shared or saved. It’s a fast, convenient tool for sharing information, websites, contact details, and more in a compact and easily accessible format. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
